@@ -27,5 +27,5 @@ const _$SocketEventEnumMap = {
   SocketEvent.unknown: 'unknown',
   SocketEvent.login: 'login',
   SocketEvent.logout: 'logout',
-  SocketEvent.newMessage: 'neeMessage',
+  SocketEvent.newMessage: 'newMessage',
 };
